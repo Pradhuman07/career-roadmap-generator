@@ -3,7 +3,7 @@
 
 ## 📸 Screenshots
 
-*(Add screenshots here once the UI is done)*
+*(Will Add screenshots here once the UI is done)*
 
 ---
 
